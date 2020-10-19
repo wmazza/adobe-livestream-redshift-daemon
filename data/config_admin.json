@@ -1,0 +1,9 @@
+{
+    "org_id": "ID",
+    "api_key": "API_KEY",
+    "tech_id": "TECH_ID",
+    "secret": "SECRET",
+    "pathToKey": "data/pkey.key",
+    "livestreamEndpoint": "LIVESTREAM_ENDPOINT",
+    "tokenEndpoint": "TOKEN_ENDPOINT"
+}
