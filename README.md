@@ -1,5 +1,6 @@
 # adobe-livestream-redshift-daemon
 
+![Screenshot](pics/ABC.png)
 
 ## Introduction
 **adobe-livestream-redshift-daemon** is a python client application, wrapped in a Linux Daemon, that acts as producer for Adobe Livestream data. 
@@ -36,6 +37,8 @@ Regarding the daemonlog_1, the logger implemented is _TimedRotating_: at 00:00 U
 
 
 # Scripts details
+
+![Screenshot](pics/diagram.png)
 
 ## livestream-producer-app.py
 
