@@ -1,0 +1,20 @@
+{
+    "maxConnections" : 1,
+    "reset" : "largest",
+    "smoothing" : 1,
+    "smoothingBucketSize" : 270,
+    "BATCH_RECORDS" : 1000,
+    "BATCH_FILES" : 10,
+    "copy_command_approach" : "multiple files",
+    "S3_base_path" : "ToIngest/",
+    "S3_bucket_name" : "BUCKET_NAME",
+    "S3_region_name" : "REGION_NAME",
+    "Redshift_staging_table_name" : "STAGING_TABLE",
+    "Redshift_columns" : "COLUMNS_STAGING_TABLE",
+    "Redshift_dbname" : "DB_NAME",
+    "Redshift_host" : "HOST",
+    "Redshift_port" : "PORT",
+    "Redshift_user" : "USER",
+    "Redshift_password" : "Password",
+    "IAM_Role" : "IAM_ROLE"
+}
