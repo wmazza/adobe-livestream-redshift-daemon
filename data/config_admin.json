@@ -5,5 +5,6 @@
     "secret": "SECRET",
     "pathToKey": "data/pkey.key",
     "livestreamEndpoint": "LIVESTREAM_ENDPOINT",
-    "tokenEndpoint": "TOKEN_ENDPOINT"
+    "tokenEndpoint": "TOKEN_ENDPOINT",
+    "AdobeStreamEndpoint" : "ADOBE_STREAM_ENDPOINT"
 }
